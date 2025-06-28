@@ -7,13 +7,9 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<h1>Benvenuto nel Fantastico Mondo di Git!</h1>
+<h1>Benvenuto nel mio sito!</h1>
 <p>Questo è il mio primo progetto Git.</p>
 <script src="script.js"></script>
- <footer>
-<p></body>copy; 2025 Il Mio Primo Sito. Tutti i diritti riservati.</p>
-<p>Creato con Git e GitHub</p>
-</footer>
 </body>
 </html>
 <div class="feature">
