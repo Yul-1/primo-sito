@@ -1,0 +1,14 @@
+# File di log
+*.log
+debug.log
+# Directory temporanee
+temp/
+tmp/
+# File di sistema
+.DS_Store
+Thumbs.db
+# Dipendenze Node.js
+node_modules/
+# File di build
+dist/
+build/
